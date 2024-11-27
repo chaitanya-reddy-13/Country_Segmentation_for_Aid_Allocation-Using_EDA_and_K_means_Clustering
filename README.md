@@ -58,7 +58,7 @@ Ensure the following packages are installed in your Python environment:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Country_Segmentation_for_Aid_Allocation-Using_EDA_and_K_means_Clustering.git
+   cd Country_Segmentation_for_Aid_Allocation-Using_EDA_and_K_means_Clustering
    ```
 3. Launch Jupyter Notebook:
    ```bash
