@@ -48,17 +48,17 @@ Ensure the following packages are installed in your Python environment:
 
 
 ```
-
+```
 ---
 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/vignesh-1809/Country_Segmentation_for_Aid_Allocation-Using_EDA_and_K_means_Clustering.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your_repository
+   cd Country_Segmentation_for_Aid_Allocation-Using_EDA_and_K_means_Clustering
    ```
 3. Launch Jupyter Notebook:
    ```bash
