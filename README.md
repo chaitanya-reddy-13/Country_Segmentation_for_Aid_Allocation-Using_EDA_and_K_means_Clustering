@@ -47,8 +47,6 @@ Ensure the following packages are installed in your Python environment:
 - `jupyterlab` (optional, for viewing and editing notebooks)
 
 
-```
-```
 ---
 
 ## How to Run
